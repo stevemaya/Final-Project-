@@ -1,18 +1,13 @@
 # Final-Project
 
 ## Pokedex 
-* Will utilize the poke Api to request specific pokemon information. 
-  
-* Will at least contain the original 150 pokemon. 
-  
-* Will display the specific pokemon you select and display it's stats and type.
-  
-* Will change background color depending on specific pokemon attribute. ie. water === blue
-  
-* Will add an animation effect when hovered over the pokemon. 
-  
-* Search for a pokemon by name or using pokedex number.
-  
+
+My Pokedex app will contain the 150 original pokemon obtained from the poke Api as well as displaying their stats and color coordinated type. The app will also contain an animation effect when hovering over the selected pokemon. You will be able to locate specific pokemon by searching their name of designated national pokedex number.
+---
+## Built With
+* Javascript
+* CSS
+* HTML
 
 
 
