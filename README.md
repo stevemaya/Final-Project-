@@ -6,9 +6,10 @@ My Pokedex app contains the pokemon obtained from the poke Api as well as displa
 ---
 
 ![Pokedex](wireframe/Pokedex.png)
+
 ## Built With
 * Javascript
 * CSS
 * HTML
-[Redditor](https://www.reddit.com/r/learnjavascript/comments/fqmqru/build_a_pokedex_replica_using_vanilla_js_and_the/)
-[PokeApi](https://pokeapi.co/)
+* [Redditor](https://www.reddit.com/r/learnjavascript/comments/fqmqru/build_a_pokedex_replica_using_vanilla_js_and_the/)
+* [PokeApi](https://pokeapi.co/)
